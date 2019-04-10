@@ -46,7 +46,6 @@ private:
 	int m_nEpollFd = 0;
 	bool m_bStop = false;
 
-
 };
 
 
